@@ -6,7 +6,7 @@
 
 ## Installation
 ```
-git clone https://github.com/SpoofIMEI/DCO-Dynamic-Code-Obfuscator
+git clone https://github.com/Varppi/DCO-Dynamic-Code-Obfuscator
 cd DCO-Dynamic-Code-Obfuscator
 python3 -m pip install -r requirements.txt
 python3 DCO.py -h
